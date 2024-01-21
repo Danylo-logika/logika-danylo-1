@@ -209,3 +209,4 @@ while game:
             asteroids.add(asteroid)
     time.delay(50)
 
+print("hello world")
